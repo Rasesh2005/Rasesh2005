@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on javascript for visualization of algorithms
 - 🌱 I’m currently learning AI algorithms
-<!-- - 👯 I’m looking to collaborate on ...-->
-<!-- - 📫 How to reach me: ...-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love reading books
 ---

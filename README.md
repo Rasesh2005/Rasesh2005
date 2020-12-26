@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Rasesh2005/Rasesh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on javascript for visualization of algorithms
+- 🌱 I’m currently learning AI algorithms
+<!-- - 👯 I’m looking to collaborate on ...-->
+<!-- - 📫 How to reach me: ...-->
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love reading books
+---
+## My github stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rasesh2005&&show_icons=true&title_color=ff0000&icon_color=bb2acf&text_color=c9cacc&bg_color=1d1f21" alt="Github Stats Here">

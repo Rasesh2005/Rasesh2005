@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on javascript for visualization of algorithms
-- 🌱 I’m currently learning AI algorithms
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on blockchains
+- 🌱 I’m currently learning cryptography
 - ⚡ Fun fact: I love reading books
 ---
 ## My github stats
